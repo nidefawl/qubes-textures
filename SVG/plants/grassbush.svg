@@ -10,7 +10,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    enable-background="new"
-   sodipodi:docname="longgrass.svg"
+   sodipodi:docname="grassbush.svg"
    inkscape:version="0.91 r13725"
    version="1.1"
    id="svg3383"
@@ -30,8 +30,8 @@
      showgrid="true"
      inkscape:current-layer="layer7"
      inkscape:document-units="px"
-     inkscape:cy="567.64695"
-     inkscape:cx="423.50412"
+     inkscape:cy="715.63229"
+     inkscape:cx="241.13395"
      inkscape:zoom="0.45254834"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -3639,6 +3639,34 @@
          id="path20705"
          inkscape:connector-curvature="0" />
     </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask20669-3">
+      <path
+         style="fill:#999999;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 823.43744,1024 -30.46875,-105.18749 42.1875,23.4375 19.53125,-101.56251 42.18751,92.96876 39.0625,-42.18751 -3.90625,69.53126 72.6562,-9.375 L 972.6562,1024 Z"
+         id="path20671-7"
+         inkscape:connector-curvature="0" />
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask20635-9">
+      <path
+         style="fill:#999999;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 540.26212,1024.0001 -23.19035,-63.36862 69.80169,30.69048 -19.68765,-104.34765 71.59147,52.17384 28.63659,-76.72623 17.89787,93.60599 60.85276,-44.50121 -21.47745,78.26074 78.75063,-16.87976 L 748.13206,1024 Z"
+         id="path20637-9"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccccc" />
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask20703-7">
+      <path
+         style="fill:#4d4d4d;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 568.74994,1024 -40.625,-131.74998 70.3125,36.71875 -39.84375,-159.37501 89.06251,64.0625 -33.59375,-207.03126 107.8125,157.03126 32.8125,-121.09376 32.03125,89.84376 69.53126,-80.46876 -9.375,122.65626 100,-136.71876 -49.21875,200.00001 99.21876,-54.6875 -101.56251,139.84376 128.68744,-29.6875 -125.95312,110.65613 z"
+         id="path20705-8"
+         inkscape:connector-curvature="0" />
+    </mask>
   </defs>
   <metadata
      id="metadata3388">
@@ -3648,7 +3676,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:creator>
           <cc:Agent>
             <dc:title>Michael Hept</dc:title>
