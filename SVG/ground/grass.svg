@@ -40,8 +40,8 @@
      showgrid="true"
      inkscape:current-layer="layer11"
      inkscape:document-units="px"
-     inkscape:cy="730.70223"
-     inkscape:cx="749.09084"
+     inkscape:cy="836.7624"
+     inkscape:cx="1058.4054"
      inkscape:zoom="0.68815105"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -78,7 +78,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:creator>
           <cc:Agent>
             <dc:title>Michael Hept</dc:title>
@@ -108,7 +108,8 @@
      inkscape:groupmode="layer"
      id="layer12"
      inkscape:label="bg_light"
-     style="display:inline;opacity:1">
+     style="display:inline;opacity:1"
+     sodipodi:insensitive="true">
     <path
        id="path3445-6"
        d="m 783.52945,935.53866 -12.65362,48.93398 -41.05144,-35.0062 -37.48742,12.60635 9.61561,-49.02424 -47.53557,-3.68896 46.43014,-29.29705 31.67937,-16.26278 -2.69418,27.24953 -22.73781,0.98771 -19.81654,10.80379 38.24511,-4.57882 -13.58145,39.92466 35.37065,-6.35916 16.05611,34.05376 2.70856,-66.88822 17.45248,36.54565 z"
@@ -208,7 +209,8 @@
      inkscape:groupmode="layer"
      id="layer14"
      inkscape:label="bg_light 1"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <g
        id="g8902"
        transform="matrix(1.2788039,1.4976214,-1.4976214,1.2788039,1002.887,-1440.453)">
@@ -1942,13 +1944,14 @@
      inkscape:groupmode="layer"
      id="layer13"
      inkscape:label="bg_dark"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true" />
   <g
      inkscape:groupmode="layer"
      id="layer11"
      inkscape:label="shapes_dark"
-     style="display:inline;opacity:0.15646261;filter:url(#filter5777)">
+     style="display:inline;opacity:0.15646261;filter:url(#filter5777)"
+     sodipodi:insensitive="true">
     <path
        id="path3441"
        d="m 610.75437,1006.5403 33.73825,-1.6933 -17.16892,31.0431 13.19703,20.1715 -29.30031,-0.1836 5.5997,27.724 -24.09123,-23.4924 -14.32737,-16.4351 15.85815,-1.4227 4.23636,12.9624 9.32033,10.2109 -8.77709,-21.4821 24.79263,3.4547 -9.31976,-19.6368 16.67601,-12.9396 -38.294,5.7338 z"
@@ -2052,7 +2055,8 @@
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="shapes_light"
-     style="display:inline;opacity:0.51000001;filter:url(#filter5781)">
+     style="display:inline;opacity:0.51000001;filter:url(#filter5781)"
+     sodipodi:insensitive="true">
     <path
        id="path16"
        d="m 693.36687,603.05017 -22.98279,-24.89778 48.35921,6.22478 -4.78858,-44.04964 55.06269,34.9525 41.59738,-50.05231 2.56299,53.49226 50.42795,-17.25989 -15.10799,35.36663 -10.53328,1.43618 7.39608,-21.89299 -41.86961,10.40089 0.95745,-29.03869 -29.42772,35.06049 -44.36345,-26.20569 2.96461,30.80616 -40.25494,-11.101 19.63039,22.50415 z"
