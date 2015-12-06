@@ -26,6 +26,8 @@ workingdir = os.path.dirname(os.path.realpath(__file__))
 rootdir="."
 fileList=[]
 for subdir, dirs, files in os.walk(rootdir):
+    if not "SVG" in subdir[0:5]:
+        continue
     for file in files:
         #print os.path.join(subdir, file)
         filepath = subdir + os.sep + file
