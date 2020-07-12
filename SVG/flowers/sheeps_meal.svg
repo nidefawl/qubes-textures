@@ -1400,9 +1400,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.125"
-     inkscape:cx="76.788607"
-     inkscape:cy="722.74233"
+     inkscape:zoom="0.5"
+     inkscape:cx="829.75688"
+     inkscape:cy="620.39019"
      inkscape:document-units="px"
      inkscape:current-layer="layer4"
      showgrid="true"
@@ -1412,9 +1412,9 @@
      inkscape:object-nodes="true"
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-global="true"
-     inkscape:window-width="1067"
-     inkscape:window-height="578"
-     inkscape:window-x="-8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1058"
+     inkscape:window-x="1592"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      units="px"
@@ -1485,7 +1485,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="leaves"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <path
        style="fill:#488329;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1507,7 +1507,7 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="leaves multiply"
-     style="display:inline;opacity:0.23399999;filter:url(#filter4516)"
+     style="display:none;opacity:0.23399999;filter:url(#filter4516)"
      sodipodi:insensitive="true">
     <path
        inkscape:connector-curvature="0"
@@ -1529,7 +1529,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="stem"
-     style="display:inline">
+     style="display:none">
     <path
        style="fill:#15270c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 735.39103,1024 -8.48528,-107.42552 18.28427,-114.81832 25.45585,0 L 752.3616,922.23133 778.6753,1024 Z"
@@ -1547,7 +1547,7 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="multiply"
-     style="display:inline;opacity:0.43800001;filter:url(#filter4743)"
+     style="display:none;opacity:0.43800001;filter:url(#filter4743)"
      sodipodi:insensitive="true">
     <path
        style="opacity:0.30100002;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter4739)"
