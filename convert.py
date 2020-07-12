@@ -298,8 +298,8 @@ def work(threadid, sublist):
                     break
             if killed:
                 break
-            # for f in filesdelete:
-            #     os.remove( f )
+            for f in filesdelete:
+                os.remove( f )
         except:
             lock.acquire() # will block if lock is already held
             printexc()
